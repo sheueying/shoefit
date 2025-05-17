@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143877866517",
+    "project_id": "shoefit-90d9c",
+    "storage_bucket": "shoefit-90d9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143877866517:android:6a0adb1c51bb5ef9a77a1c",
+        "android_client_info": {
+          "package_name": "com.example.shoefit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBprg9zRpF-ZJh4_YUvxTCMYSM6EKnx8Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
